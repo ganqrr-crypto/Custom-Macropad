@@ -2,11 +2,11 @@
 title: "Cool Custom Macropad"
 github: "https://github.com/ganqrr-crypto/Custom-Macropad"
 description: "I am building this custom macropad to get better and to learn"
-created_at: "2026-10-11"
+created_at: "2026-10-10"
 total_time: "11h"
 ---
 
-# October 11, 2026: Beginning
+# October 10, 2026: Beginning
 <!-- fabricate:entry 339 -->
 
 i started taking a look at the placement of my macropad and i found out some position that might be good.. i am using fusion for the pcb because of the integration with the 3d printing and yeah here are some pictures
