@@ -31,3 +31,8 @@ PCB:
 
 some of the code:
 <img width="1173" height="616" alt="Screenshot 2026-10-11 194147" src="https://github.com/user-attachments/assets/cce15ad7-ece1-4760-b282-7435a10a8be1" />
+
+
+AI DISCLOSURE:
+I used some AI for browsing some of the code cause KMK was so unclear.. I did NOT copy paste the code i just red some snippets and made my own 
+NOTE that i didnt use it much because i took a look at many more codes NOT by AI but by humans and assembled my own
